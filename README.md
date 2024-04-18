@@ -38,4 +38,4 @@ You will defiantly use every extension here when you are building projects. So I
 - HTML id and class attribute completion for Visual Studio Code.
 - Link: [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 
-Enjoy exploring all the possibilities with these extensions, and happy coding!****
+Enjoy exploring all the possibilities with these extensions, and happy coding!
