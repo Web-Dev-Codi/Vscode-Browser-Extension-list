@@ -34,5 +34,8 @@ You will defiantly use every extension here when you are building projects. So I
 #### Multiple Cursor Case Preserve
 - Highlight multiple parts of your file for editing. Vary handy when you wan to change a name or variable that has multiple instances in the same file and change them all in one go. 
 - Link: [Multiple Cursor](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
+#### HTML CSS Support
+- HTML id and class attribute completion for Visual Studio Code.
+- Link: [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 
-Enjoy exploring all the possibilities with these extensions, and happy coding!
+Enjoy exploring all the possibilities with these extensions, and happy coding!****
